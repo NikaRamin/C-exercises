@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//A program in C language to multiply the two given matrices
+
 int main(){
     int m,n,p;
     printf("m = ");

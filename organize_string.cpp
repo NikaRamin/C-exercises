@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// A program in C language to organize the letters of a string alphabetically
+
 int main(){
     char string[50];
     char temp;

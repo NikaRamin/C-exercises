@@ -2,6 +2,7 @@
 #include <string.h>
 
 // A program in C language to find the common characters between two strings
+
 int main(){
 
     char str1[100],str2[100],str3[100];

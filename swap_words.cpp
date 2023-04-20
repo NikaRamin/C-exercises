@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//A program in C language to swap the first and the last word in a string
+
 int main(){
     char str[100];
     char first[100];

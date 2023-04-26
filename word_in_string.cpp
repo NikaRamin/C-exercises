@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// A program to ckeck if a word is present in a string
+// This program checks if a word is present in a string and prints the number of repetition
 
 int main(){
 

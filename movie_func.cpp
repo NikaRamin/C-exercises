@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
+
+/* This code gets the info of five movies, if the user presses 1, they information will be soretd in the alphabetical order of the name of the movies, 
+if the user press 2, it will be sorted by the year of the movies, and if the user presses 3, the information will be printed from the highest imdb score to the lowest.
+if the user presses 4, the program will end.*/
+
+
 struct movies{
     char name[20];
     int year;

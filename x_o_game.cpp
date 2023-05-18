@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+//This program plays a random X O game, then shows the board and the winner.
+
 int main(){
     char board[3][3];
     int rand1,w=0;

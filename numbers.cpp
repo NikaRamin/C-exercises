@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// This program takes five phone numbers with names and 1.Sorts by the frequency of one number (highest to lowest) 2.Sorts by the number of non-repetitive numbers (lowest to highest)
+
 struct info{
     char name[20];
     char num[11];

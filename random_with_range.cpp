@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+// This program takes three numbers, the first two are the range of the random number and the random number shouldn't be a multiple of the third number.
+
 int func(int range1 , int range2 , int mazrab){
     srand(time(0));
     int n;

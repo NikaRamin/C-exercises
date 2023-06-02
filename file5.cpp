@@ -1,5 +1,6 @@
-
 #include <stdio.h>
+
+//a program that takes the name of a file and prints the number of characters in a file.
 
 void filenum(char str[20]){
     int m = 0;

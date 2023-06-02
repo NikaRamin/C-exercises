@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//  A program to save the alphabets with their ASCII code in a file
+
 int main(){
     FILE *fp;
     char tab = '\t', enter = '\n';

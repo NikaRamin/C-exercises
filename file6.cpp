@@ -1,5 +1,6 @@
-
 #include <stdio.h>
+
+//A program thar takes the name of a file and prints the number of lines in a file.
 
 void ffile(char name[20]);
 

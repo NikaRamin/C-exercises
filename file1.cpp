@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// a program to save all the alphabets in a file.
+
 int main(){
     char a[50],b[50];
     char j = 'a';

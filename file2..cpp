@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// a program to open a file and save the given string in a file.
+
 int main(){
     char string[100];
     gets(string);

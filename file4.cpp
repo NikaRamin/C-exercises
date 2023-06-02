@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//A program to get the name of two files and add the info of first file to the second one.
+
 void filejoin(FILE *fp1,FILE*fp2,char str1[20],char str2[20]);
 
 

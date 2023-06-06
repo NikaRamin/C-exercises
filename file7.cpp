@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// A program that stores the information of students in a file. When adding new inforamtion, it checks if the student number has been used before.
+// It also searches for a student number in the file.
 
 // function prototypes
 void fadd(FILE *fp,struct node s1);

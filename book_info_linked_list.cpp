@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// A program that stores the information of books in a linked list. The menu has options of what to do with the stored information.
 
 struct data{
         char name[20];

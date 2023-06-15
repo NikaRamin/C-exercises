@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//This is a simple program for understanding dynamic arrays.
+
 int main(){
     int *ptr;
     int size;

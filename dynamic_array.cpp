@@ -8,7 +8,11 @@ int main(){
     int size;
     printf("Enter the size of elements:\n");
     scanf("%d",&size);
+    
     ptr = (int *) malloc(size * sizeof(int));
+    //ptr = (int *) calloc(size , sizeof(int));
+    // calloc gives all the element of the array a default value of 0.
+    
     if(ptr == NULL){
         printf("Memory not allocated.\n");
     }

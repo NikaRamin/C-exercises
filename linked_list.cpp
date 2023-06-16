@@ -125,8 +125,8 @@ void freverse(){
     while(current){
         next = current -> link;
         current -> link = prev;
-        current = next;
         prev = current;
+        current = next;
     }
 
     first = prev;

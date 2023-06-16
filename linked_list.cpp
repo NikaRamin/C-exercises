@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//This is a simple linked list program that has a menu of 10 options that the user can choose.
+
 struct node{
     int data;
     struct node *link;

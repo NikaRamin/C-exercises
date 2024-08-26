@@ -1,2 +1,2 @@
 # C-exercises
-C exercises for a beginner
+Exercises to learn C
